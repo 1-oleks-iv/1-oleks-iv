@@ -28,20 +28,3 @@ My goal is to become a professional software developer and grow into a full-time
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
-
----
-
-## Currently Learning
-
-- Unit Testing (Jest)
-- Redux
-- Backend fundamentals
-- Algorithms & Data Structures
-
----
-
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=1-oleks-iv&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1-oleks-iv&layout=compact)
